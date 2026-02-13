@@ -95,6 +95,7 @@ const buscarApellido = async () => {
               </li>
               <li>Porcentaje: {{ dist.porcentaje }}%</li>
               <li>Ranking: #{{ dist.ranking }}</li>
+              <li>Gramaje: {{ dist.gramaje }}</li>
             </ul>
           </div>
         </div>
